@@ -1,1 +1,1 @@
-Eklenecek k�t�phaneler buraya koyulacak.
+Eklenecek kütüphaneler buraya yavaşça bırakılacak.
