@@ -1,0 +1,1 @@
+MySancak Altium kütüphanesi.
