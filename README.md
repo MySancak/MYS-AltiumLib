@@ -8,7 +8,7 @@ Repoyu klonlayarak veya indirerek içerisinde bulunan "[MYS-AltiumLib.SchLib](ht
 Yukarıdaki adımları takip ederek kütüphane kurulumunu gerçekleştirebilirsiniz.
 
 ## Kütüphaneye nasıl komponent ekleyebilirim?
-Eklemek istediğiniz komponentin datasheetini ve ürün linkini @eminboydak kişisine ulaştırabilir veya repo üzerinden yeni branch açıp ***Eklenecekler*** klasörünün içerisine eklenmesini istediğiniz komponentin dosyalarını ekleyip pull request oluşturma isteği gönderebilirsiniz.
+Eklemek istediğiniz komponentin datasheetini ve ürün linkini [@eminboydak](https://github.com/eminboydak) kişisine ulaştırabilir veya repo üzerinden yeni branch açıp ***Eklenecekler*** klasörünün içerisine eklenmesini istediğiniz komponentin dosyalarını ekleyip pull request oluşturma isteği gönderebilirsiniz.
 
 ## Komponentleri gönderdim ve kütüphaneye eklendi Altium üzerinden nasıl güncelleyebilirim?
 Komponentler eklendiği taktirde GitHub Desktop üzerinden ***Fetch origin*** butonuna tıklamanız veya dosyaları tekrar indirip kurulu olan yerdeki dosyalarla değiştirmeniz yeterli.
